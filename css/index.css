@@ -1,0 +1,104 @@
+* {
+    font-family: 微软雅黑;
+    margin: 0;
+    padding: 0;
+}
+
+#avarat {
+    height: 163px;
+    position: relative;
+    top: -178px;
+    left: 530px;
+}
+
+#body {
+    width: 825px;
+    margin: auto;
+    background-image: url(../image/background.png);
+}
+
+body {
+    background-color: wheat;
+}
+
+header {
+    padding-top: 70px;
+    padding-left: 72px;
+    height: 190px;
+}
+
+#zhuti {
+    padding-left: 72px;
+}
+
+#name {
+    display: inline-block;
+    color: #5b9bd5;
+    font-size: 22pt;
+    margin-bottom: 20px;
+}
+
+#zhuanye {
+    margin-bottom: 20px;
+}
+
+.imp {
+    height: 35px;
+    width: 650px;
+    background-color: #dedede;
+}
+
+.imp div {
+    height: 35px;
+    width: 10px;
+    background-color: #00b0f0;
+}
+
+.imp p {
+    position: relative;
+    top: -31px;
+    left: 18px;
+    font-size: 12pt;
+}
+
+#icon_1 {
+    width: 190px;
+}
+
+td img {
+    height: 14px;
+    margin-right: 5px;
+    list-style-type: none;
+}
+
+.main {
+    width: 640px;
+    font-size: 10.5pt;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 12px;
+}
+
+#first_main {
+    padding-top: 5px;
+    padding-bottom: 22px;
+}
+
+#last_main {
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.main div {
+    width: 300px;
+}
+
+span{
+    margin-right: 126px;
+}
+#zhuti_table_1{
+    
+}
+#zhuti_table_2{
+
+}
