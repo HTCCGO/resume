@@ -75,23 +75,23 @@ td img {
 .main {
     width: 640px;
     font-size: 10.5pt;
-    padding-top: 5px;
+    padding-top: 10px;
     padding-bottom: 20px;
     padding-left: 12px;
 }
 
 #first_main {
-    padding-top: 5px;
+    padding-top: 10px;
     padding-bottom: 22px;
 }
 
 #last_main {
-    padding-top: 5px;
+    padding-top: 10px;
     padding-bottom: 20px;
 }
 
 .main div {
-    width: 300px;
+    width: 316px;
     margin-right: 0;
 }
 
@@ -102,12 +102,37 @@ span {
 #last_span {
     margin: 0;
 }
-#zhuti_table_1{
+
+#zhuti_table_1 {
     display: inline-block;
 }
 
 #zhuti_table_2 {
     display: inline-block;
     position: relative;
-    top: -18px;
+    top: -19.5px;
+}
+
+td div {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+}
+
+#last_span {
+    float: right;
+}
+
+#medum_span {
+    margin: auto;
+}
+
+#rongyu {
+    display: inline-block;
+    position: relative;
+    top: -39px;
+}
+
+#jineng {
+    display: inline-block;
 }
