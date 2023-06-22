@@ -93,12 +93,15 @@ td img {
     width: 300px;
 }
 
-span{
+span {
     margin-right: 126px;
 }
-#zhuti_table_1{
-    
-}
-#zhuti_table_2{
 
+#last_span {
+    margin: 0;
+}
+
+#zhuti_table_2 {
+    float:right;
+    margin-top: 60px;
 }
