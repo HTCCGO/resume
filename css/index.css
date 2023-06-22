@@ -29,6 +29,7 @@ header {
 
 #zhuti {
     padding-left: 72px;
+    padding-right: 20px;
 }
 
 #name {
@@ -91,6 +92,7 @@ td img {
 
 .main div {
     width: 300px;
+    margin-right: 0;
 }
 
 span {
@@ -100,8 +102,12 @@ span {
 #last_span {
     margin: 0;
 }
+#zhuti_table_1{
+    display: inline-block;
+}
 
 #zhuti_table_2 {
-    float:right;
-    margin-top: 60px;
+    display: inline-block;
+    position: relative;
+    top: -18px;
 }
